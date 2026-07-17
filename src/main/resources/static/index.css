@@ -1,6 +1,21 @@
 h1{
     color: blue;
 }
-*{
+/* *{
     background-color: aqua;
+} */
+.navbar{
+    border-style: solid;
+    /* border-radius: 30%; */
+    border-width: 50px;
+    border-color: rgb(15, 189, 189);
+    text-align: center;
+    padding: 20px;
+}
+
+.navbar a{
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    font-style: italic;
 }
